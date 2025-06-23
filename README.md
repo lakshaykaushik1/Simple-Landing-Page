@@ -36,8 +36,6 @@ _Perfect for showcasing your product or idea in a clean, attractive format._
   <img src="preview.png" alt="Landing Page Screenshot" width="90%">
 </p>
 
-> _(You can upload and replace `preview.png` with an actual screenshot)_
-
 ---
 
 ## 🧰 Tech Stack
